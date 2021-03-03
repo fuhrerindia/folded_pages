@@ -1,0 +1,35 @@
+.dialog{background: #fff;
+    width: 60%;
+    display: inline-block;
+    margin-top: 24vh;
+    text-align: left;
+    border-radius: 13px;
+    color: #181818;
+    padding: 20px;}
+    #overlay, .overlay{    position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #000000b8;
+        text-align: center;
+        display: none;
+    }
+    .dialog button{
+        float: right;
+    margin: 12px;
+    padding: 5px;
+    background: transparent;
+    border: 0;
+    color: #0f1846 ;
+    font-weight: bold;
+    font-size: 16px;
+    cursor:pointer;
+    }
+    .dialog p{
+        margin-top: 5px;
+    }
+    
+@media screen and (max-width: 900px){
+    .dialog{
+        width: 80%;
+    }
+}

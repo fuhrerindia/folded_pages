@@ -1,0 +1,151 @@
+<!--
+<!doctype html>
+<html>
+<head>
+<meta name="theme-color" content="#cdb0eb">
+<meta name="viewport" content="width=device-width, initial scale=1"/>
+<title>
+FOLDED PAGES - TMINC | ANDROID APP BY TMINC
+</title>
+<meta name="title" content="Folded Pages | TMINC| ANDROID APPS BY TMINC">
+<meta name="description" content="What happens if you do not go to school for a few days for some reason? The very first answer in your mind to this question should be A lot of pending work, No?To fulfill this need of our users we created this software name FOLDED PAGES.">
+<meta name="keywords" content="folded pages, tminc, folded page, class material collection platform, study, study material collection platform, folded pages, apps">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="revisit-after" content="7 days">
+<meta name="author" content="TMINC">
+
+<link rel="stylesheet" type="text/css" href="css/old.css"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel=stylesheet href=https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css>
+<link rel=stylesheet type="text/css" href="css/store.css">
+<link rel="stylesheet" href="css/def.css">
+                <link rel="stylesheet" type="text/css" href="css/cse.css" />
+
+
+                </head>
+<body>
+<?php include('head.php'); ?>
+<div id=title>
+<strong>TMINC APP</strong> Preview
+</div>
+<hr id=t-h>
+
+<div id=noe>
+This App is Only available for Android
+</div>
+
+
+<div id=details-apps>
+<ul id=list>
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20200216-120859.png id=soft-ico>
+</li>
+<li>
+<ul>
+<li id=app-name>
+FOLDED PAGES
+</li>
+<li>
+SERVICE
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<a href="/apps/download/fp.php" target=_blank id=b>
+<button class="buttons">
+DOWNLOAD
+</button></a>
+<a href="https://play.google.com/store/apps/details?id=com.info_themorningindia.FoldedPages" target=_blank>
+<button class="buttons">
+INSTALL
+</button>
+</a>
+<hr>
+<div id=screenshots-app>
+<ul>
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20200327-172949.jpg id=sfc-aa>
+</li>
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20200327-173330.jpg id=sfc-aa>
+</li>
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20200327-173452.jpg id=sfc-aa>
+</li>
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20200327-173100.jpg id=sfc-aa>
+</li>
+<!--<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20190805-184931.jpg id=sfc-ss>
+</li>-->
+</ul>
+</div>
+<hr>
+<div id=about-app>
+ABOUT THIS APP
+</div>
+<p id=about-snap>
+What happens if you do not go to school for a few days for some reason? The very first answer in your mind to this question should be A lot of pending work, No?<br>
+To fulfill this need of our users we created this software name FOLDED PAGES.<br>
+You just need to ask all your friends and classmates to download and install Folded Pages and login with your class.<br>
+Now make a periodic routine of every classmate to send classwork, homework and any important notification of respective day in Folded Pages. By this absentees of that day would get classwork and homework of respective day. This app will save you from several punishments.<br>
+<br>
+</p>
+
+<div id=table-cont>
+<table>
+<tr>
+<td>
+NAME
+</td>
+<td>
+FOLDED PAGES
+</td>
+</tr>
+<tr>
+<td>
+VERSION
+</td>
+<td>
+8.0
+</td></tr><tr>
+<td>
+PUBLISHER
+</td>
+<td>
+TMINC
+</td>
+</tr>
+<tr>
+<td>
+TYPE
+</td>
+<td>
+APK
+</td>
+</tr>
+</table>
+</div>
+<div id=mre-apps>
+<ul>
+<a href="cab">
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20191122-191840.png id=soft-ico>
+</li>
+</a>
+<a href="surface">
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/20200317-202846.png id=soft-ico>
+</li>
+</a>
+<a href="link">
+<li>
+<img src=https://themorningindia.weebly.com/uploads/1/1/8/6/118650016/acc.png id=soft-ico>
+</li>
+</a>
+</ul>
+</div>
+<?php include('footer.php');?>
+</body>-->

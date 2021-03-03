@@ -1,0 +1,14 @@
+{
+  "name": "Folded Pages",
+  "short_name": "fp",
+  "start_url": "index.php",
+  "theme_color": "#008000",
+  "min_version": "2.3",
+  "background_color": "#ededed",
+  "display":"fullscreen",
+  "description": "Manage students easily, create room and share study materials.",
+  "icons": [{
+    "src": "assets/icon.png",
+    "sizes": "512x512"
+  }]
+}
