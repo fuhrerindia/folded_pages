@@ -1,6 +1,6 @@
 <?php
     include('modules/tminc.php');
-    boiler('Folded Pges - Login &bull; TMINC', 
+    boiler('Folded Pages - Login &bull; TMINC', 
     'Login to Folded pages as student, TMINC, folded Pages, fp, student, students', 
     'Folded Pages, Student Login', 
     true, 
